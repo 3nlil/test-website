@@ -14,3 +14,7 @@ p {
     border-radius: 50%;
     width: 20%;
 }
+
+.intro {
+    background-color: silver;
+}
