@@ -13,8 +13,13 @@ p {
     border-style: solid;
     border-radius: 50%;
     width: 20%;
+    margin: 20px;
 }
 
 .intro {
     background-color: silver;
+}
+
+#email-form {
+    margin: 20px 0px;
 }
