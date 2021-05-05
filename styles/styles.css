@@ -1,10 +1,19 @@
+body {
+    background-color: #06B3F9;
+}
+
 h1, h2 {
     font-family: 'Hind Siliguri', sans-serif;
-    color: brown;
+    color: #551d02;
 }
 
 p {
     font-family: 'Roboto', sans-serif;
+}
+
+.intro {
+    padding: 20px 40px;
+    margin: -20px;
 }
 
 .Marduk {
@@ -17,7 +26,7 @@ p {
 }
 
 .intro {
-    background-color: silver;
+    background-color: #F94C06;
 }
 
 #email-form {
