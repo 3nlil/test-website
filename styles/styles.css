@@ -5,10 +5,12 @@ body {
 h1, h2 {
     font-family: 'Hind Siliguri', sans-serif;
     color: #551d02;
+    text-align: center;
 }
 
 p {
     font-family: 'Roboto', sans-serif;
+    text-align: center;
 }
 
 .intro {
