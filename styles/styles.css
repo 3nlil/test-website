@@ -13,6 +13,13 @@ p {
     text-align: center;
 }
 
+hr {
+    width: 50%;
+    border-top: 2px solid;
+    border-bottom: none;
+    color: #551d02;    
+}
+
 .intro {
     padding: 20px 40px;
     margin: -20px;
