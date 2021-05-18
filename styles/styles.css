@@ -26,7 +26,7 @@ a {
 }
 
 a:hover {
-    color: blue;
+    color: maroon;
 }
 
 .intro {
@@ -49,4 +49,21 @@ a:hover {
 
 #email-form {
     margin: 20px 0px;
+}
+
+#navbar {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color: black;
+}
+
+#navbar a {
+    color: white;  
+    text-decoration: none;
+    text-align: center;  
+}
+
+#navbar a:hover {
+    color: #F94C06;
 }
